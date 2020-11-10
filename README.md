@@ -10,7 +10,7 @@ recommend to use [tutorial](https://react-native.rocketseat.dev/) to configurate
 
 ## Communs mistakes
 
-You neeed to install Android Studio with costumized configuration , using the path ```JAVA_HOME```. Check if the enverimont varibles are properly configurate in ``` ~/.bashrc``` or in ```~/.zshrc```:
+You need to install Android Studio with costumized configuration , using the path ```JAVA_HOME```. Check if the enverimont varibles are properly configurate in ``` ~/.bashrc``` or in ```~/.zshrc```:
 ```
 export JAVA_HOME=ENDEREÇO_DE_INSTALAÇÃO_DO_JDK
 export ANDROID_HOME=~/Android/Sdk
@@ -27,7 +27,7 @@ chmod 755 android/gradlew
 ## Inicialization
 Clone the repository
 ```
-git clone https://github.com/fga-eps-mds/2020.1-Conecta-Ensina-Mobile.git
+https://github.com/RhuanMr/-portfolio.git
 ```
 Intall the the
 ```
