@@ -1,4 +1,4 @@
-#Portifolio of Rhuan Marques
+# Portifolio of Rhuan Marques
 
 ## Dependencies
 - [git](https://git-scm.com/)
